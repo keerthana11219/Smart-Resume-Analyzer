@@ -1,1 +1,5 @@
 # Smart-Resume-Analyzer
+
+In today’s competitive job market, companies use *Applicant Tracking Systems (ATS)* to automatically screen resumes before they reach human recruiters. Many qualified candidates get rejected because their resumes do not match job descriptions effectively. This project aims to develop a *Smart Resume Analyzer using Machine Learning* that evaluates resumes against job descriptions and generates an *ATS compatibility score*.
+
+The system extracts text from resumes and job descriptions, performs text preprocessing, identifies important skills and keywords, and calculates similarity using *TF-IDF and cosine similarity* techniques. It also provides *skill gap analysis, keyword suggestions, and suitable job role recommendations*, helping candidates improve their resumes and increase their chances of getting shortlisted.
